@@ -49,7 +49,7 @@ dnf5 install -y gnome-tweaks
 dnf5 install -y calc
 dnf5 install -y hyfetch
 dnf5 install -y fastfetch
-dnf5 install -y texlive-scheme-full
+#dnf5 install -y texlive-scheme-full
 dnf5 install -y wine
 dnf5 install -y wine-dxvk
 dnf5 install -y distrobox
